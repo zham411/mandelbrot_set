@@ -10,8 +10,6 @@
 # exhibit an elaborate and infinitely complicated boundary that reveals
 # progressively ever-finer recursive detail at increasing magnifications, making
 # the boundary of the Mandelbrot set a fractal curve.
-# In the absence of fractal generating software, this code block is specific to the Mega Donor Model
-# so the algorithms contained within should not be used for fractal determination in other projects.
 
 
 import colorsys
